@@ -1,0 +1,135 @@
+body{
+    background-color: aqua;
+}
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/* ------------------------------------------ */
+.back-div{
+    width: 400px;
+    height: 500px;
+    background-color: crimson;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.phone{
+    width: 60px;
+    position: absolute;
+    height: 100px;
+    background-color: wheat;
+    border: skyblue solid 2px;
+    border-radius: 10px;
+    margin: 50px 0px 0px 300px;
+}
+
+.line-ph{
+    width: 40px;
+    margin-top: 10px;
+    height: 5px;
+    background-color:skyblue ;
+    border-radius: 10px ;
+}
+
+.button-ph{
+    width: 15px;
+    height: 5px;
+    margin-top: 45px;
+    background-color: black;
+    border-radius: 5px;
+}
+/* ---------------------------------------------- */
+
+.pc{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    margin: 50px 0px 0px 30px;
+    background-color: wheat;
+    border: skyblue solid 4px;
+    border-radius: 10px;
+}
+
+.buttom-pc{
+    position: absolute; 
+    background-color: skyblue;
+    width: 240px;
+    height: 10px;
+    margin: 150px 0px 0px 15px;
+    border-radius: 5px;
+
+}
+
+.line-pc1{
+    width: 130px;
+    margin-top: 10px;
+    margin-right: 30px;
+    height: 5px;
+    background-color:skyblue ;
+    border-radius: 10px ;
+}
+
+.line-pc2{
+    width: 81px;
+    margin-right: 75px;
+    margin-top: 10px;
+    height: 5px;
+    background-color:skyblue ;
+    border-radius: 10px ;
+}
+/* --------------------------------------- */
+p{
+    position: absolute;
+    margin: 200px 0px 0px 15px;
+    color: skyblue;
+    font-size: 20px;
+    font-weight: 750;
+}
+/* ---------------------------------------- */
+.choose-1{
+    position: absolute;
+    margin: 300px 0px 0px -20px;
+    font-size: 25px;
+    font-weight: 800;
+    width: 440px;
+    height: 50px;  
+    color: whitesmoke;
+    background-color: rgba(135, 207, 235, 0);
+}
+.choose-1:hover{
+    color: rgb(231, 0, 219);
+    background-color: skyblue;
+    width: 440px;
+    height: 50px;
+    border-radius:20px ;
+    transition: .5s;
+}
+
+/* -------------------------------------------- */
+.choose-2{
+    position: absolute;
+    margin: 380px 0px 0px -20px;
+    font-size: 25px;
+    font-weight: 800;
+    width: 440px;
+    height: 50px;  
+    color: whitesmoke;
+    background-color: rgba(135, 207, 235, 0);
+}
+.choose-2:hover{
+    color: rgb(231, 0, 219);
+    background-color: skyblue;
+    width: 440px;
+    height: 50px;
+    border-radius:20px ;
+    transition: .5s;
+}
+
+
+
+
+
+
+
+
+
